@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Power Torch</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
 </resources>
